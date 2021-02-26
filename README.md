@@ -1,6 +1,6 @@
 **Hi, I'm Glenn** 👋
 
-I'm a Junior Fullstack Developer working with Ruby on Rails.
+I'm a Junior Fullstack Developer working with Ruby on Rails.  
 🌱 I am also expanding my horizons by learning C# and .NET
 
 Please feel free to message me 💬 
