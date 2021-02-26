@@ -5,5 +5,5 @@ I'm a Junior Fullstack Developer working with Ruby on Rails.
 
 Please feel free to message me 💬   
 I can be found on 
-- LinkedIn: https://www.linkedin.com/in/glenntippett/
+- LinkedIn: <a href="https://www.linkedin.com/in/glenntippett/" rel="nofollow">glenntippett</a>
 - Twitter: <a href="https://twitter.com/glenntippett" rel="nofollow">@glenntippett</a>
