@@ -1,4 +1,4 @@
-# Hi, I'm Glenn** 👋
+# Hi, I'm Glenn 👋
 
 👨‍💻 **I'm a Fullstack Developer in Melbourne, Australia.**  
 🌱  My current stack includes ```JavaScript```, ```React```, ```Ruby```, ```Rails```, ```HTML```, ```CSS/Sass```  
