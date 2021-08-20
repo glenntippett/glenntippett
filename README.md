@@ -1,7 +1,7 @@
-**Hi, I'm Glenn** 👋
+# Hi, I'm Glenn** 👋
 
-I'm a Junior Fullstack Developer working with Ruby, Rails and JavaScript.  
-🌱 I am also expanding my horizons by learning React and Node.js
+👨‍💻 **I'm a Fullstack Developer in Melbourne, Australia.**  
+🌱  My current stack includes ```JavaScript```, ```React```, ```Ruby```, ```Rails```, ```HTML```, ```CSS/Sass```  
 
 Please feel free to message me 💬   
 I can be found on 
