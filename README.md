@@ -1,7 +1,8 @@
 # Hi, I'm Glenn 👋
 
-👨‍💻 **I'm a Fullstack Developer in Melbourne, Australia.**  
-🌱  My current stack includes ```JavaScript```, ```React```, ```Ruby```, ```Rails```, ```HTML```, ```CSS/Sass```  
+👨‍💻 **A Developer based in Melbourne, Australia.**  
+👔 I currently work as a fullstack JavaScript developer and also teach at Le Wagon coding bootcamp
+🌱  My current technologies include ```JavaScript```, ```NestJS```, ```React```, ```GraphQL```, ```MySQL```, ```Postgres```, ```Ruby```, ```Rails```, ```HTML```, ```CSS/Sass```  
 
 Please feel free to message me 💬   
 I can be found on 
