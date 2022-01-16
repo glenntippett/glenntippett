@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glenn</h1>
 <h3 align="center">A fullstack developer from Melbourne, Australia</h3>
 
-- 🔭 I’m currently working on **Enance (Project link TBC)**
+- 🔭 I’m currently working on **[Enance](https://www.enance.io/)**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
