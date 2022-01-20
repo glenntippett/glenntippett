@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://www.glenntippett.dev/](https://www.glenntippett.dev/projects)
+- 👨‍💻 All of my projects are available at [https://www.glenntippett.dev/projects](https://www.glenntippett.dev/projects)
 
 - 📝 I regularly write articles on [https://dev.to/glenntippett](https://dev.to/glenntippett)
 
